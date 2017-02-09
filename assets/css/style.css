@@ -51,14 +51,23 @@ body {
   font-size: 1rem;
 }
 
+.content-body p a {
+  color: #302b1e;
+}
+
 .content-note {
-  background-color: #d4d4d4;
-  border-radius: 0.2em;
-  border: 1px solid #403c2f;
+  background-color: #e5e5e5;
+  border-radius: 0.1em;
+  border: 1px solid #d4d4d4;
 }
 
 .content-note p {
   margin: 0.5em 0.25em 0.5em 0.25em;
+}
+
+.email {
+  text-align: left;
+  font-family: 'Ubuntu Mono', monospace;
 }
 
 /* Body */
